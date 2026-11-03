@@ -174,8 +174,8 @@ Suggestions and improvements are welcome. Feel free to fork the repository and o
 **Karthikeyan**
 Chennai, India
 
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/karthikeyans12)
-- GitHub: [your-username](https://github.com/karthikeyan1260)
+- LinkedIn: [Karthikeyans12](https://www.linkedin.com/in/karthikeyans12)
+- GitHub: [Karthikeyan1260](https://github.com/karthikeyan1260)
 
 ---
 
