@@ -175,7 +175,7 @@ Suggestions and improvements are welcome. Feel free to fork the repository and o
 Chennai, India
 
 - LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/karthikeyans12)
-- GitHub: [your-username](https://github.com/karthikeyans1260)
+- GitHub: [your-username](https://github.com/karthikeyan1260)
 
 ---
 
